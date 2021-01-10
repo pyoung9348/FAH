@@ -23,7 +23,7 @@ sudo cat <<EOT >> /opt/fahclient/config.xml
   <!-- User Information -->
   <user value="pyoung9348"/>
   <team value="999"/>      
-  <passkey value="821bcff48537d2ed821bcff48537d2ed"/>  
+  <passkey value=""/>  
   <power value="full"/>
   <gpu value="false"/>      <!-- If true, attempt to autoconfigure GPUs -->
   <smp value="true"/>
